@@ -1,4 +1,5 @@
 #Made by Luca Santarella, code used for the analysis of cryptocurrency exchanges for my Bachelor thesis in Computer Science @ Università di Pisa
+#Since the website layout of CoinMarketCap changed the following code could not be working anymore
 
 import scrapy
 import json
