@@ -1,4 +1,4 @@
-#This code will scrape exchange data from the CoinGecko website about 
+#This code will scrape exchange data from the CoinGecko website
 #Luca Santarella
 
 from selenium import webdriver 
